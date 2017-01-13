@@ -1,6 +1,6 @@
 # HarvardCF_Contest_TeamLC
 code for Harvard IACS Computefest 2017 data visualization contest
-\n
+
 
 "The idea here is to do exploratory visualization in preparation for data analysis. 
 The dataset we will use is from the UCI machine learning repository: https://archive.ics.uci.edu/ml/datasets/Covertype . 
